@@ -2,11 +2,10 @@ language: go
 
 go:
  - 1.2
- - 1.3
 
 install:
  - curl -s https://raw.github.com/pote/gpm/v1.2.1/bin/gpm | bash
- - gpm install
+ - ./gpm help
 
 script:
  - go test -v ./trading_engine
