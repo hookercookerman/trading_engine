@@ -9,3 +9,5 @@ this is taken from one of my many journeys learning golang
 ## Testing ##
 
 Ginkgo
+
+[![Build Status](https://travis-ci.org/hookercookerman/trading_engine.svg?branch=master)](https://travis-ci.org/hookercookerman/trading_engine)
